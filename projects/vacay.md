@@ -1,28 +1,18 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+image: https://vipclothingstores.com/cdn/shop/products/puma-footwear-puma-grey-lime-green-x-ray-2-square-sneaker-28393219883063_800x.jpg?v=1728106901 
+title: "Sneaker Bot"
+date: 2024
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Python
+  - Selenium
+summary: "A software that automates the purchases of exclusive sneakers, bypassing many bot detectors. "
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1ZA7iahYZKMKurpPrdRrclyQfDjNzl3tug&s">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
+My sneaker bot streamlines and accelerates the purchase of exclusive sneakers, beating human speed and efficiency by automating every step of the checkout process. Built with Selenium, it navigates websites autonomously—selecting the shoe size, filling in billing information, and completing the purchase. It already bypasses several bot detection systems and is currently being trained with machine learning to handle even more advanced defenses. Through continuous data collection and model refinement, the bot adapts to evolving security measures for a seamless, high-speed sneaker buying experience.
  
 Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
