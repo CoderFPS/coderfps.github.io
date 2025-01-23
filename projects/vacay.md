@@ -15,4 +15,4 @@ summary: "A software that automates the purchases of exclusive sneakers, bypassi
 
 My sneaker bot streamlines and accelerates the purchase of exclusive sneakers, beating human speed and efficiency by automating every step of the checkout process. Built with Selenium, it navigates websites autonomously—selecting the shoe size, filling in billing information, and completing the purchase. It already bypasses several bot detection systems and is currently being trained with machine learning to handle even more advanced defenses. Through continuous data collection and model refinement, the bot adapts to evolving security measures for a seamless, high-speed sneaker buying experience.
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+
