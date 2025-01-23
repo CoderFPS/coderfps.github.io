@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://vipclothingstores.com/cdn/shop/products/puma-footwear-puma-grey-lime-green-x-ray-2-square-sneaker-28393219883063_800x.jpg?v=1728106901 
+image: img/puma-footwear-puma-grey-lime-green-x-ray-2-square-sneaker-28393219883063_1200x.webp
 title: "Sneaker Bot"
 date: 2024
 published: true
