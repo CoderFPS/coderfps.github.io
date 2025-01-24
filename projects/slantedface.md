@@ -2,12 +2,12 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "SlantedFace Official"
+date: 2024
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - ECommerce
+  - Fashion
 summary: "A text adventure game that I developed for ICS 313."
 ---
 
