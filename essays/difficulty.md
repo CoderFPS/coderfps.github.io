@@ -8,50 +8,68 @@ published: true
 labels:
   - Engineering
   - Learning
-  - Javascript
-  - Typescript
+  - JavaScript
+  - TypeScript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+## Introduction
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+TypeScript has recently captured my attention in the most positive way. I come from a Java background, so I’ve always been fond of strong typing and the security it brings. When I first encountered TypeScript, I immediately saw the parallels to Java—particularly in its syntax and the clarity it provides when defining variables and function signatures. Yet, TypeScript isn’t simply “JavaScript with types.” It blends the dynamic nature of JavaScript with a powerful type system, giving me a sense of both freedom and confidence.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+In this essay, I’ll reflect on my personal experiences with TypeScript, explain why I find it so compelling, and share thoughts on the “athletic software engineering” approach (including practice WODs) that has shaped my learning process. Along the way, I’ll highlight what I’ve learned about TypeScript’s functionality, discuss its value from a software engineering standpoint, and offer insights into how its use can enhance productivity and code quality.
 
-Here's what I think: the difficult things will always be difficult.
+## Why I Enjoy TypeScript
 
-## In the context of programming
+’ve always enjoyed writing Java, and TypeScript provides a similar style while feeling lighter and more flexible. Unlike vanilla JavaScript, TypeScript’s ability to specify variable types offers a comforting sense of security. This means fewer runtime surprises—if I declare a variable as a string, the compiler makes sure I don’t accidentally assign it a numeric value later.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+But TypeScript’s benefits go beyond type safety. One feature I’ve grown to appreciate is type inference. TypeScript can infer the type of a variable based on the way it’s initialized, which cuts down on verbose declarations. For instance:
+<pre>```typescript
+// TypeScript infers 'message' as a string
+let message = "Hello, TypeScript!";
+```</pre>
+Without me explicitly stating that the message is a string, TypeScript infers it from the initial assignment. This balances the best of both worlds: strong typing when I need it and easy, readable code when I don’t.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+## From Java to TypeScript (with JavaScipt in Between)
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+Before diving deep into TypeScript, I already knew a fair amount of JavaScript. I was aware of ES6 features like arrow functions, template literals, and destructuring. Still, going through lessons that explicitly connect JavaScript to TypeScript helped me understand how TypeScript builds on modern JavaScript while adding types, interfaces, and other enhancements.
 
-## In the context of engineering
+One new thing I learned about TypeScript’s functionality is its support for advanced types—such as union types (e.g., string | number) and interfaces that allow you to define more complex object shapes. For a Java enthusiast, these features feel both comfortable and novel. They make my code more expressive than Java at times, particularly when describing objects or functions that may behave differently depending on the context.
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+## Is TypeScript a Good Language from a Software Engineering Perspective?
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+From a software engineering standpoint, I would say absolutely—TypeScript is an excellent choice. It promotes cleaner code, reduces bugs early through compile-time checks, and makes refactoring far less risky. In large-scale projects, having explicit types means:
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+- Easier Onboarding: New developers can read method signatures and interface definitions to understand what data flows through the system.
+- More Predictable Refactoring: The TypeScript compiler points out mismatches and potential issues right away.
+- Better Tooling: IDEs and code editors provide stronger autocomplete, real-time error detection, and refactoring tools.
+  
+## Reflections on Athletic Software Engineering
 
-## In the context of relationships
+Beyond the language itself, I’m also a big fan of the athletic software engineering approach. In my experience, the best way to learn any technical topic—whether it’s a new programming language or a framework—is by practicing. Athletic software engineering forces you to tackle exercises, known as WODs (Workouts of the Day), within a certain time constraint. This approach:
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
+- Encourages Mastery: If you truly grasp a concept, you can implement it efficiently under time pressure.
+- Builds Confidence: Knowing I can solve a problem in a timed environment reduces my stress when facing real testing or production scenarios.
+- Keeps It Interesting: There’s less chance of boredom because I’m actively engaged, trying to solve real problems rather than passively absorbing theory.
+- 
+I find these practice WODs extremely useful because they confirm whether I’ve actually internalized the curriculum. If I’m missing a concept, I’ll discover it right away when the clock is ticking.
 
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
+## Learning Style and Classroom Dynamics
 
-Relationships have always been difficult, and by nature will continue to be so.
+One of the highlights of athletic software engineering is that it complements the flipped classroom environment. By working on materials at home, I identify what I understand versus where I’m stuck. Then, during class, I can focus on clarifying those stumbling blocks. This structure:
 
-## Okay!
+- Maximizes Class Time: We spend classroom hours solving problems, exchanging ideas, and deepening our understanding.
+- Reduces Passive Learning: Instead of attending lectures where I might tune out, I’m constantly engaged and applying new concepts.
+- Promotes Efficiency: I feel like every moment in class is dedicated to honing my skills rather than repeating what I could learn independently.
+  
+Ultimately, this style keeps me motivated and ensures I’m always working toward practical competency, rather than memorizing facts for a test I might promptly forget.
 
-So back to the original premise; why is being one of the club officers so difficult?
+## Conclusion
 
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
+In summary, TypeScript has become one of my favorite languages because it merges Java’s type safety with JavaScript’s flexibility. Its features—such as type inference, advanced type definitions, and powerful tooling—make it an excellent choice for large-scale software engineering projects. And from a personal learning standpoint, combining TypeScript with the athletic software engineering approach has been both enjoyable and effective. I’m more confident, less stressed, and excited to keep building my expertise by practicing and writing real-world applications.
 
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+For anyone contemplating whether to invest time in TypeScript and athletic software engineering: go for it. Embrace the typed world, push yourself with timed challenges, and watch your skills in building robust, maintainable software grow exponentially.
+
+
+
