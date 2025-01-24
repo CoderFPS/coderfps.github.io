@@ -25,6 +25,6 @@ Although the brand is no longer active, the experience gave us invaluable entrep
 
 Below is one of the tech packs we created for a product that never made it past sampling:
 
-<img class="img-fluid" src="../img/image.jpg">
+<img class="img-fluid" src="../img/DDF69B3D-1BDE-4A6C-A517-032B4E2B23C4.jpeg">
 
 
