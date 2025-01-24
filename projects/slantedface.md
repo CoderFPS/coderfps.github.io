@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/SFLOGOtransparent.png
+image: "/img/SFLOGOtransparent.png"
 title: "SlantedFace Official"
 date: 2024
 published: true
