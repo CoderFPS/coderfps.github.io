@@ -11,9 +11,9 @@ labels:
 summary: "A software that automates the purchases of exclusive sneakers, bypassing many bot detectors. "
 ---
 
-<<div style="text-align: center;">
+<div style="text-align: center;">
   <img 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1ZAtiahYZXMKurpPrdRcr1y0f9Nj2ItugGs" 
+    src="https://cdn.runrepeat.com/storage/gallery/buying_guide_primary/66/66-best-sneakers-001-15275042-main.jpg" 
     alt="Sneaker Bot Image"
     style="display: block; margin: 0 auto; max-width: 600px; height: auto;"
   />
