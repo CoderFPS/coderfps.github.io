@@ -1,59 +1,30 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/SFLOGOtransparent.png
 title: "SlantedFace Official"
 date: 2024
 published: true
 labels:
   - ECommerce
   - Fashion
-summary: "A text adventure game that I developed for ICS 313."
+summary: "An attempt at building an online fashion brand."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+SlantedFaceOfficial was a collaborative venture initiated by my best friend, Evan Liu, and me. Our goal was to create a brand with a design language that resonated deeply with both of us, reflecting our personal aesthetics and values. What started as a passion project quickly became an invaluable learning experience that provided us with firsthand insights into the complexities of launching and managing an online clothing brand.
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Throughout the journey, we encountered numerous challenges and gained knowledge in various aspects of business operations. We learned the intricacies of building an e-commerce website and understanding the associated costs and expenses that arise even before producing the actual clothing. From domain registration and web hosting to marketing and operational costs, we developed a comprehensive understanding of the financial demands of running an online business.
 
-To give you a flavor of the game, here is an excerpt from one run:
+On the technical side, we delved into essential clothing production processes, including creating tech packs, pattern designing, and sampling. These steps were crucial in transforming our design concepts into tangible products. Additionally, we navigated the complexities of communicating effectively with manufacturers, ensuring that our vision translated accurately from design to production.
 
-<hr>
+Financial management played a pivotal role in our project. With limited funding from our savings, we learned how to optimize pricing strategies, allocate resources efficiently, and plan budget-friendly product drops. Despite working within financial constraints, we successfully executed two product drops, carefully balancing quality and affordability.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+After two successful drops, we ultimately achieved a net break-even point of $200. However, due to limited funds and increasingly demanding personal schedules, we decided to conclude our SlantedFaceOfficial endeavor.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+Although the brand is no longer active, the experience gave us invaluable entrepreneurship, branding, and resilience lessons. The journey of SlantedFaceOfficial strengthened our problem-solving abilities, financial literacy, and business skills that will undoubtedly influence our future ventures.
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+Below is one of the tech packs we created for a product that never made it past sampling:
 
-pickup candle
-- you are now carrying the candle -
+<img class="img-fluid" src="../img/image.jpg">
 
-pickup match
-- you are now carrying the match -
 
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
