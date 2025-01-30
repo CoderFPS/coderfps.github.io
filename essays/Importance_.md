@@ -10,12 +10,12 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
-
-**The Importance of Smart Questions in Software Engineering**
+### The Importance of Smart Questions in Software Engineering
 
 ### Introduction
 Effective and efficient communication is crucial in software engineering, especially in the workforce. This concept heavily applies not just to working but to seeking help from the open-source community. Eric Raymond’s essay, *How to Ask Questions the Smart Way*, emphasizes the importance of well-structured, clear, and precise questions to receive efficient and effective responses. Smart questions let engineers articulate the problems they are facing succinctly, making it easier for others to respond and be helpful. Creating smart questions speeds up troubleshooting and helps engineers improve their problem-solving skills. This essay will examine two questions posted on StackOverflow: one representing a "smart" approach and another demonstrating a "not-so-smart" approach both of which are actual posts by real people. By analyzing these examples, we can better understand the impact of question quality on the responses received and how it affects the overall learning experience within the coding community.
+
+![Stack Overflow Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/1280px-Stack_Overflow_logo.svg.png)
 
 ### Analysis of a Smart Question
 **Example: [Group 2D array data by a column](https://stackoverflow.com/questions/10515802/group-2d-array-data-by-a-column)**
@@ -38,6 +38,8 @@ In contrast to the previous question, this one violates several principles descr
 - **Unclear Expectations:** The lack of an explicit request makes it difficult for responders to provide targeted solutions and efficiently provide what the original user sought.
 
 The responses to this question reflect its poor quality. Many users request more information or provide generic troubleshooting steps rather than specific, well-informed solutions. This leads to inefficiency, as multiple interactions are needed to clarify the issue before giving a solution.
+
+![YouTube Thumbnail](https://i.ytimg.com/vi/3FuFA3DMszs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBFW8FIy-bJg_C-cVXr0XOP00Hyuw) 
 
 ### Comparison & Insights
 The stark contrast between the two questions highlights the importance of asking questions smartly. A well-formed question:
