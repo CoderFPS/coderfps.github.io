@@ -10,6 +10,7 @@ labels:
   - Learning
   - JavaScript
   - TypeScript
+  - College
 ---
 
 
