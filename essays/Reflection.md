@@ -43,7 +43,7 @@ Without me explicitly stating that the message is a string, TypeScript infers it
 
 Before starting to learn TypeScript, I knew a fair amount of JavaScript. I knew many ES6 features like arrow functions, template literals, and destructuring. Despite this, going through lessons that explicitly connected JavaScript to TypeScript helped me understand how TypeScript builds on modern JavaScript while adding types, interfaces, and other enhancements.
 
-One new thing I learned about TypeScript’s functionality is its support for advanced types—such as union types (e.g., string | number) and interfaces that allow you to define more complex object shapes. As someone with mainly Java experience, I feel these features are very comfortable. They make my code more expressive than Java at times, particularly when describing objects or functions that may behave differently depending on the context.
+One new thing I learned about TypeScript’s functionality is its support for advanced types, such as union types  and interfacenumbers ,allow you to define more complex object shapes. As someone with mainly Java experience, I feel these features are vevery comfortable with these features. They sometimespressive than Java at times, particJava'sescribing objects or functions that may behave differently depending on the context.
 
 ## Is TypeScript a Good Language from a Software Engineering Perspective?
 
