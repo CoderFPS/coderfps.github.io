@@ -29,6 +29,8 @@ After my first week using ESLint with VSCode, my overall impression has been pos
 
 One of the most valuable aspects of ESLint is its ability to catch subtle mistakes that might otherwise go unnoticed, such as missing semicolons, unused variables, or inconsistent indentation. These minor issues can add up over time, leading to technical debt and code that becomes increasingly difficult to maintain. By addressing them early, ESLint helps keep the codebase clean and error-free.
 
+<img width="600px" class="rounded float-start pe-4" src="../img/rule_names.jpg">
+
 ## The Real-World Benefits of Coding Standards
 
 The importance of coding standards extends beyond individual convenience. In professional software development, teams often work on the same codebase over extended periods. The code can quickly become difficult to manage without a standardized approach, especially as new developers join a project. Coding standards help mitigate these issues by ensuring everyone follows a consistent style, reducing unnecessary friction in the development process.
