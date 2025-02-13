@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/1_OvaSRk5EFxb_mN_M_QpUNg.png">
 
 ## The Importance of Coding Standards: More Than Just Trivial Rules
 
