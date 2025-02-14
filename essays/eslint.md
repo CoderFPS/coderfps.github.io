@@ -13,6 +13,7 @@ labels:
 
 <img width="600px" class="rounded float-start pe-4" src="../img/1_OvaSRk5EFxb_mN_M_QpUNg.png">
 
+
 ## The Importance of Coding Standards: More Than Just Trivial Rules
 
 Coding standards are often considered trivial concerns, such as how many blank lines to include, where to place curly braces or the age-old argument of tabs or spaces. While many of these rules may seem small and pointless, the broader purpose of coding standards is far from trivial. Following well-defined coding guidelines helps keep code organized, readable, and maintainable. It also promotes collaboration among developers, reduces the likelihood of introducing bugs, and ultimately leads to higher-quality software.
