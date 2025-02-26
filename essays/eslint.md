@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Importance of Coding Standards: More Than Just Trivial Rules"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2025-02-08
 published: true
 labels:
   - ESLint
