@@ -72,4 +72,4 @@ Another potential challenge is that Bootstrap’s predefined styles may sometime
 
 Despite the slight additional effort required to use Bootstrap 5 effectively, its adaptability and many features make it an essential tool in web development. The framework simplifies design, enhances code efficiency, and provides prebuilt components that streamline development. As a software engineering student, Bootstrap 5 has become a powerful friend in creating scalable and visually appealing web applications. Mastering this framework saves time and gives developers the skills to build high-quality, responsive websites within our industry.
 
-
+*ChatGPT used to improve the grammar and potentially redundant segments*
