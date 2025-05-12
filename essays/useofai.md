@@ -12,24 +12,24 @@ labels:
 ---
 
 **Reflecting on My Use of AI in ICS 314**  
-*By [Your Name]*
+*By Hargun Juneja*
 
 **I. Introduction**  
-AI is becoming a big part of education, especially in tech-heavy fields like Software Engineering. It helps students figure things out faster, stay on track, and even learn better if used the right way. In ICS 314, I mainly used ChatGPT at first because it was simple and I already knew how to use it. But when I started the final project, I started using Cursor and Windsurf too. They were harder for me at first, but I wanted to get comfortable with them since I know they’re going to be important tools in the real world.
+AI is becoming a big part of education, especially in tech-heavy fields like Software Engineering. It helps students figure things out faster, stay on track, and even learn better if used correctly. In ICS 314, I mainly used ChatGPT because it was simple, and I already knew how to use it. However, I used Cursor and Windsurf when I started the final project. At first, they were harder for me, but I wanted to get comfortable with them since I know they will be essential tools in the real world, especially in my future career.
 
 **II. Personal Experience with AI**
 
 **1. Experience WODs**  
-For these, I never used AI. Since they’re basically homework and prep for the real WODs, I wanted to figure things out on my own. If I got stuck, I would go through all the readings or documentation until I understood what to do.
+For these, I never used AI. Since they’re homework and prep for the real WODs, I wanted to figure things out on my own. If I got stuck, I would go through all the readings or documentation until I understood what to do.
 
 **2. In-class Practice WODs**  
-Same as the experience WODs. These are just practice so it made more sense to learn by doing and struggling through it a little.
+Same as the experience WODs. These are practice so it made more sense to learn by doing and struggling through it a little.
 
 **3. In-Class WODs**  
-This one depends. For earlier WODs where it was just basic stuff like writing functions, I wrote them on my own and sometimes asked AI to test them or double check. For later WODs where we had to recreate webpages and there was a time crunch, I used AI to help build a framework quickly. I would give super specific prompts to ChatGPT so I could just fill in the blanks, and if I ran into any errors, I would ask AI to help fix it fast.
+This one depends. For earlier WODs where it was just basic stuff like writing functions, I wrote them on my own and asked AI to test them or double-check them. For later WODs where we had to recreate webpages and there was a  bigger time crunch, I used AI to help build a framework quickly. I would give super specific prompts to ChatGPT so I could just fill in the blanks, and if I ran into any errors, I would ask AI to help fix it fast.
 
 **4. Essays**  
-Even this one. For essays, I always start by dumping out all my thoughts and making sure I’ve covered every part of the prompt. Then I paste those raw thoughts into ChatGPT and ask it to turn them into a full essay that sounds clean. After that, I read the result and fix anything I don’t like so that the final version still feels like mine.
+Even this one. For essays, I always start by dumping out all my thoughts and ensuring I’ve covered every part of the prompt. Then I paste those raw thoughts into ChatGPT and ask it to turn them into a full essay that sounds clean. After that, I read the result and fix anything I don’t like so that the final version still feels like mine.
 
 **5. Final Project**  
 I used AI for pretty much everything here. Since I was the team lead, I used AI to help me divide up the tasks, fix bugs, review pull requests, and just manage the whole thing. It made me way more efficient and helped me make sure everything was working right.
