@@ -37,11 +37,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["C", "C++", "Java", "Python"]
+      "keywords": ["C", "C++", "Java", "Python", "React", "Next.js"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": ["MacOS", "Git/GitHub", "Unity"]
+      "keywords": ["MacOS", "Git/GitHub", "Supabase", "Vercel", "Tailwind CSS"]
     }
   ],
   "education": [
