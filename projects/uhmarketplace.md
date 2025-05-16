@@ -15,7 +15,7 @@ summary: "A campus-exclusive marketplace for University of Hawaii students to bu
 
 <div style="text-align: center;">
   <img 
-    src="file:///Users/hargunfps/Desktop/Screenshot%202025-05-16%20at%2011.34.52%E2%80%AFAM.png" 
+    src=img/a19283b9-f8d4-46d0-a3ce-5dddd80d8b59.png 
     alt="UH Marketplace Screenshot"
     style="display: block; margin: 0 auto; max-width: 600px; height: auto;"
   />
