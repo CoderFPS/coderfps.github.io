@@ -40,3 +40,15 @@ On the coding side:
 - I built the **profile pages**, both for the logged-in user and for accessing other users' profiles, which required secure user authentication and dynamic data fetching from the database.
 
 This project helped me improve my project management skills, sharpen my ability to plan a feature roadmap, and strengthened my technical abilities in full-stack development using Supabase, Next.js, and React.
+
+### Skills Used & Learned
+
+- Managing a **Supabase database** for storing, retrieving, and updating user and item post data  
+- Implementing **authentication and user profile access** using Supabase’s auth API  
+- Deploying the full-stack app using **Vercel**, handling build issues and deployment flow  
+- Building with the **Next.js framework**, using server-side and client-side rendering  
+- Styling the interface using **Tailwind CSS** for responsive and clean UI design  
+- Structuring reusable UI components such as headers, footers, and item cards using **React**  
+- Handling **search queries** and dynamic filtering of data from the backend  
+- Collaborating with a team using **Git and GitHub** (issues, commits, branches, and merges)  
+- Leading a development timeline, distributing tasks based on strengths, and ensuring issue integration without conflicts  
