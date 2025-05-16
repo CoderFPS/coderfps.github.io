@@ -13,7 +13,9 @@ labels:
 summary: "A campus-exclusive marketplace for University of Hawaii students to buy, sell, and explore listings from other UH students."
 ---
 
-![UH Marketplace Screenshot](/img/a19283b9-f8d4-46d0-a3ce-5dddd80d8b59.png)
+<p align="center">
+  <img src="/img/a19283b9-f8d4-46d0-a3ce-5dddd80d8b59.png" alt="UH Marketplace Screenshot" width="600" />
+</p>
 
 
 UH Marketplace is a University of Hawaii-exclusive alternative to Facebook Marketplace, made specifically for students to buy and sell items with other UH students. The app supports account creation, uploading new item posts, editing and deleting existing posts, as well as exploring all listings on the platform.
