@@ -3,7 +3,7 @@
     "name": "Hargun Juneja",
     "label": "Student",
     "email": "hargun@hawaii.edu",
-    "picture": "/img/4C003F98-2D96-4894-81A6-E5E34710932.jpeg",
+    "picture": /img/4C003F98-2D96-4894-81A6-E5E34710932.jpeg,
     "phone": "925-699-0926",
     "website": "https://coderfps.github.io",
     "summary": "I am an aspiring software engineer studying to get my B.S. in Computer Science at the University of Hawaii at Manoa. I am expected to graduate in Spring 2027 and hope to build my future as a coder.",
